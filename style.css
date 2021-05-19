@@ -1,0 +1,65 @@
+body{
+  background-image: url(img/background.jpg);
+  background-size: 100%;
+}
+
+.container{
+  width: 850px;
+  margin: auto;
+  background-color: rgba(0, 0, 0, 0.6);
+  padding: 100px 50px 50px;
+  border-radius: 10px;
+}
+
+.logo{
+  width: 180px;
+  display: block;
+  margin: auto;
+}
+
+header > h2{
+  color: #27c527;
+  text-align: center;
+  margin: auto;
+}
+
+nav{
+  background-color: #27c527;
+  text-align: center;
+  padding: 10px;
+  margin-bottom: 30px;
+}
+
+main{
+  color: white;
+}
+
+.stato{
+  font-size: 12px;
+}
+
+.arrow:after{
+  content: "\21A6";
+}
+
+.barra-carica{
+  height: 20px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  border: 1px solid black;
+}
+
+#Gino22 .barra-carica{
+  background-color: #e8b24d;
+  width: 225px;
+}
+
+#Mike24 .barra-carica{
+  background-color: #11bb11;
+  width: 500px;
+}
+
+#Fede154 .barra-carica{
+  background-color: #de5151;
+  width: 100px;
+}
